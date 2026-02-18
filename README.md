@@ -21,4 +21,4 @@ A lightweight Node.js application that parses CSV files and stores student recor
    ## 📸 Screenshots
 | File Upload Interface | MongoDB Compass Result |
 | :--- | :--- |
-| ![Upload Page](link-to-your-screenshot1) | ![Database Result](link-to-your-screenshot2) |
+| ![Upload Page](https://github.com/Abdimalik-Saed-Elmi/node-csv-mongodb-sync/blob/main/screenshots/image.png) | ![Database Result](https://github.com/Abdimalik-Saed-Elmi/node-csv-mongodb-sync/blob/main/screenshots/image%20copy.png) |
