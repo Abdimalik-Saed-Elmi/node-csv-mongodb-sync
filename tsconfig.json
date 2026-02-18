@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",                                  /* Nooca JS ee loo beddelayo */
+    "module": "commonjs",                                /* Sida modules-ka loo soo dejiyo */
+    "lib": ["es2020"],                                   /* Maktabadaha uu isticmaalayo */
+    "outDir": "./dist",                                  /* Meesha uu geynayo JS-ka la dhisay */
+    "rootDir": "./",                                     /* Meesha code-kaagu ku jiro */
+    "strict": true,                                      /* Hubinta xogta oo adag */
+    "esModuleInterop": true,                             /* U oggolow 'import' caadiga ah */
+    "skipLibCheck": true,                                /* Iska dhaaf hubinta maktabadaha kale */
+    "forceConsistentCasingInFileNames": true,            /* Hubi xarfaha waaweyn iyo yar-yar */
+    "moduleResolution": "node"                           /* Sida loo raadinayo modules-ka */
+  },
+  "include": ["**/*.ts"],                                /* Kaliya faylasha .ts compiles garee */
+  "exclude": ["node_modules"]                            /* Ha taaban node_modules */
+}
